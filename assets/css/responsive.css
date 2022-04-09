@@ -39,7 +39,8 @@
         flex-basis: 10%;
     }
     .active-top {
-        bottom: 45px;
+        z-index:10;
+        bottom: 20px;
         right: 5px;
     }
 
@@ -116,7 +117,8 @@
         flex-basis: 6%;
     }
     .active-top {
-        bottom: 60px;
-        right: 0;
+        z-index:10;
+        bottom: 20px;
+        right: 5px;
     }
 }
